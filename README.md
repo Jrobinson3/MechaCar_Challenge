@@ -24,11 +24,13 @@ Yes.  The reason why this linear model predicts mpg of MechaCar prototypes effec
 2. In your MechaCarChallenge.RScript, import and read in the Suspension_Coil.csv file as a table.
 3. Write an RScript that creates a total_summary dataframe using the summarize() function to get the mean, median, variance, and standard deviation of the suspension coil’s PSI column.
 Total_summary dataframe should look like this:
+
 ![image](https://github.com/Jrobinson3/MechaCar_Challenge/blob/main/total_summary.png)
 
 4. Write an RScript that creates a lot_summary dataframe using the group_by() and the summarize() functions to group each manufacturing lot by the mean, median, variance, and standard deviation of the suspension coil’s PSI column.
 
 Lot_summary dataframe should look like this:
+
 ![image](https://github.com/Jrobinson3/MechaCar_Challenge/blob/main/lot_summary.png)
 
 The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?

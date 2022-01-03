@@ -56,13 +56,17 @@ Follow the instructions below to complete Deliverable 4.
 1. In your README, create a subheading ## Study Design: MechaCar vs Competition.
 2. Write a short description of a statistical study that can quantify how the MechaCar performs against the competition. In your study design, think critically about what metrics would be of interest to a consumer: for a few examples, cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
 3. In your description, address the following questions:
+
 What metric or metrics are you going to test?
 We will compare MechaCar's fuel efficiency (mpg)-dependent variable and vehicle weight (independent variable) vs other major car competitor companies' fuel efficiency, such as Honda, Tesla, Hyundai, and Ford for the past 3 years. 
+
 What is the null hypothesis or alternative hypothesis?
 "Null Hypothesis: if the vehicle weight does not impact the fuel efficiency, then reducing the vehicle weight in MechaCar will not result in using less gasoline. 
 Alternative Hypothesis: if the vehicle weight does impact the fuel efficiency, then reducing the vehicle weight in MechaCar will result in using less gasoline."
+
 What statistical test would you use to test the hypothesis? And why?
 We will use simple linear regression because it builds a linear regression model with one independent variable.
+
 What data is needed to run the statistical test?
 We need a dataset that includes the vehicle weight and mpg for other competitor companies during the past three years. 
 
